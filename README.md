@@ -10,6 +10,8 @@
 
 ![React](https://img.shields.io/badge/React-20232A?logo=react\&logoColor=61DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-v7-CA4245?logo=reactrouter\&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron\&logoColor=white)
+
 
 ### Backend
 
