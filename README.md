@@ -29,3 +29,8 @@
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions\&logoColor=white)
+
+### Certifications
+
+- Oracle Certified Java Programmer, Silver SE 7 — Nov 2018
+- ORACLE MASTER Bronze Oracle Database 11g — Apr 2019
